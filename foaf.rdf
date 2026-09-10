@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <foaf:Person rdf:about="https://tom8t.github.io/thouinthomas.github.io/">
+        <foaf:name>Thomas Thouin</foaf:name>
+        <foaf:givenName>Thomas</foaf:givenName>
+        <foaf:familyName>Thouin</foaf:familyName>
+        <foaf:nick>Tom</foaf:nick>
+        <foaf:gender>male</foaf:gender>
+        <foaf:based_near>La Rochelle</foaf:based_near>
+        <foaf:homepage rdf:resource="https://tom8t.github.io/thouinthomas.github.io/" />
+        <foaf:knows>
+            <foaf:Person>
+                <foaf:name>Baptiste Huchon</foaf:name>
+                <foaf:name>Alexandre Fontaneau</foaf:name>
+                <foaf:name>Cyprien Robinaud</foaf:name>
+            </foaf:Person>
+        </foaf:knows>
+        <foaf:age>22</foaf:age>
+        <foaf:schoolHomepage>https://www.univ-larochelle.fr/</foaf:schoolHomepage>
+        <foaf:interest>Video Games, Computer Science</foaf:interest>
+    </foaf:Person>
+</rdf:RDF>   
